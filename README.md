@@ -4,7 +4,7 @@ Central index of my projects, grouped by category (Portfolio, Learning, Kaggle, 
 # 📂 Oscar Yáñez Feijóo – Project Portfolio
 
 Welcome to my **GitHub index**.  
-I’ve grouped all my repositories into categories that reflect my journey: **Healthcare AI, AI Agents, Data Science, Cybersecurity, Learning, and Tools**.  
+I’ve grouped all my repositories into categories that reflect my journey: **Healthcare AI, AI Agents, Data Science, Cybersecurity, Learning, Java, and Tools**.  
 
 ---
 
@@ -74,17 +74,6 @@ Projects linked to cybersecurity, automation, and infrastructure.
 Study repos, certifications, and academic work.  
 
 - [DSMarket](https://github.com/OYanez85/DSMarket) *(MSc Final Project)*  
-- [Java_Projects_Unified](https://github.com/OYanez85/Java_Projects_Unified)  
-- [Java_Learning_Repository](https://github.com/OYanez85/Java_Learning_Repository)  
-- [Java_Course](https://github.com/OYanez85/Java_Course)  
-- [Assignment_S1.01](https://github.com/OYanez85/Assignment_S1.01)  
-- [Assignment_S1.02.-Exceptions](https://github.com/OYanez85/Assignment_S1.02.-Exceptions)  
-- [Assignment_S1.03_Java_Collections](https://github.com/OYanez85/Assignment_S1.03_Java_Collections)  
-- [Assignment_S1.04._Testing](https://github.com/OYanez85/Assignment_S1.04._Testing)  
-- [Assignment_S1.05._Java_Utils](https://github.com/OYanez85/Assignment_S1.05._Java_Utils)  
-- [Assignment_S1.06._Generics](https://github.com/OYanez85/Assignment_S1.06._Generics)  
-- [Assignment_S1.07._Annotations](https://github.com/OYanez85/Assignment_S1.07._Annotations)  
-- [Assignment_S1.08._Lambdas](https://github.com/OYanez85/Assignment_S1.08._Lambdas)  
 - [Course_Certificates](https://github.com/OYanez85/Course_Certificates)  
 - [PY4E_Book](https://github.com/OYanez85/PY4E_Book)  
 - [py4e](https://github.com/OYanez85/py4e)  
@@ -103,6 +92,23 @@ Study repos, certifications, and academic work.
 - [Microsoft_Power_BI_Certificate_Coursera](https://github.com/OYanez85/Microsoft_Power_BI_Certificate_Coursera)  
 - [Coursera_GitHub_VSCode](https://github.com/OYanez85/Coursera_GitHub_VSCode)  
 - [Numpy_freecodecamp](https://github.com/OYanez85/Numpy_freecodecamp)  
+
+---
+
+## ☕ Java Projects & Assignments
+All my Java learning path and exercises consolidated.  
+
+- [Java_Projects_Unified](https://github.com/OYanez85/Java_Projects_Unified)  
+- [Java_Learning_Repository](https://github.com/OYanez85/Java_Learning_Repository)  
+- [Java_Course](https://github.com/OYanez85/Java_Course)  
+- [Assignment_S1.01](https://github.com/OYanez85/Assignment_S1.01)  
+- [Assignment_S1.02.-Exceptions](https://github.com/OYanez85/Assignment_S1.02.-Exceptions)  
+- [Assignment_S1.03_Java_Collections](https://github.com/OYanez85/Assignment_S1.03_Java_Collections)  
+- [Assignment_S1.04._Testing](https://github.com/OYanez85/Assignment_S1.04._Testing)  
+- [Assignment_S1.05._Java_Utils](https://github.com/OYanez85/Assignment_S1.05._Java_Utils)  
+- [Assignment_S1.06._Generics](https://github.com/OYanez85/Assignment_S1.06._Generics)  
+- [Assignment_S1.07._Annotations](https://github.com/OYanez85/Assignment_S1.07._Annotations)  
+- [Assignment_S1.08._Lambdas](https://github.com/OYanez85/Assignment_S1.08._Lambdas)  
 
 ---
 
@@ -138,7 +144,3 @@ External frameworks, forks, and experimentation sandboxes.
 ✉️ **Contact:** oscar.yanez.feijoo@gmail.com  
 🌐 [WordPress](https://datavessel.wordpress.com/) · [Kaggle](https://www.kaggle.com/oscaryezfeijo) · [About.me](https://about.me/oscar.yanez.feijoo)  
 💼 [LinkedIn](https://linkedin.com) · 🤖 [Hugging Face](https://huggingface.co) · 🧠 [Dev.to Blog](https://dev.to)  
-
-
-✉️ **Contact:** oscar.yanez.feijoo@gmail.com  
-🌐 [WordPress](https://datavessel.wordpress.com/) · [Kaggle](https://www.kaggle.com/oscaryezfeijo) · [About.me](https://about.me/oscar.yanez.feijoo)  
