@@ -62,7 +62,7 @@ Competitions, datasets, and applied ML research.
 Projects linked to cybersecurity, automation, and infrastructure.  
 
 - [Python_for_Cybersecurity](https://github.com/OYanez85/Python_for_Cybersecurity)  
-- [health-checks](https://github.com/OYanez85/health-checks) *(private)*  
+- [health-checks](https://github.com/OYanez85/health-checks)   
 - [DockerContainer](https://github.com/OYanez85/DockerContainer)  
 - [Docker_Fundamentals](https://github.com/OYanez85/Docker_Fundamentals)  
 - [My_First_Pipeline](https://github.com/OYanez85/My_First_Pipeline)  
